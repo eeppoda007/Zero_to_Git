@@ -11,6 +11,15 @@ used once when starting a git repo
 	...shell
 	git init
 	...
+	
+	Git tools
+	...shell
+	git blame <path>
+	git reflog
+	git log
+	git reset--hard <sha_id>
+	git checkout	<branch_name>
+	...
 
 Used often Common Comands
 
@@ -20,3 +29,4 @@ Used often Common Comands
 	git add <path>
 	git status
 	git commit -m "show message here(start with a verb)"
+	...
