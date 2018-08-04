@@ -1,4 +1,4 @@
-## Git Commands
+# Git Commands
 One time commands
 	...shell
 	$ git config --global core.editor "nano"
